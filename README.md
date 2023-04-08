@@ -9,7 +9,7 @@
   <p align="center">
   
   ### I am
-  My name's Paul and I'm a 24 years old french JavaScript developper
+  My name's Paul and I'm a 24 years old french JavaScript developer
   
   ### I like
   Programming  
