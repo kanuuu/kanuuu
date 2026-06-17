@@ -15,7 +15,7 @@
   Programming  
   Hardware  
   Learning  
-  Aviation
+  Aviation  
   Video Games
   </p>
 </div>
