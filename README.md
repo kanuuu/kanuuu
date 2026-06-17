@@ -24,7 +24,7 @@
 
 ## Some of the projects I made
 
-Minecraft Server : https://pokenest.fr/
+Minecraft Server (Not Online anymore) : pokenest.fr
 From website to Java mod development by CI/CD, DevOps etc...
 
 Marvel Search : https://kanuxdd-marvel.netlify.app/
